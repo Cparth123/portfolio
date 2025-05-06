@@ -32,7 +32,7 @@ function CodeEditor() {
           />
           <img
             src="assets/Images/nextjs.png"
-            className="w-32 h-32 -rotate-12 object-cover top-10 left-52 absolute"
+            className="w-32 h-32 hidden md:block -rotate-12 object-cover top-10 left-52 absolute"
           />
 
           <div className="w-fit text-xs md:text-lg mx-auto rounded-md overflow-hidden backdrop-blur-md">

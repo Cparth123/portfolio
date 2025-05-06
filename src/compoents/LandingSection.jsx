@@ -81,7 +81,7 @@ function LandingSection() {
         id="projects"
         className="flex flex-col items-center justify-center w-full bg-gradient-to-br from-transparent to-midnightpurple"
       >
-        <div className="w-full h-[250px] md:h-96 flex items-center justify-center  bg-gradient-to-b from-midnightpurple to-transparent">
+        <div className="w-fit h-full md:w-full  md:h-96 flex items-center justify-center  bg-gradient-to-b from-midnightpurple to-transparent">
           <h1 className="text-xl lg:text-5xl text-center">
             <span
               style={{
