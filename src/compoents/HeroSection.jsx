@@ -4,7 +4,7 @@ const HeroSection = () => {
   return (
     <div className="h-screen  w-full bg-gradient-to-b from-black via-midnightpurple/5 to-midnightpurple relative">
       <img
-        src="../../public/assets/images/hero4.png"
+        src="assets/images/hero4.png"
         className="!h-5/6 float-animation absolute object-contain left-1/2 md:left-1/3 translate-x-[-50%] bottom-20"
         alt=""
       />

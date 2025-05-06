@@ -45,7 +45,7 @@ function LandingSection() {
         <div className="w-full h-full absolute top-[85px]">
           <img
             className="w-[100%] md:!w-[60%] mx-auto float-animation"
-            src={"../../public/assets/Images/hero3.png"}
+            src={"assets/Images/hero3.png"}
             alt="im1"
           />
         </div>

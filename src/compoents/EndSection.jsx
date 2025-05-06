@@ -10,7 +10,7 @@ function EndSection() {
       </div>
       <div className="h-10 w-full left-0 bg-gradient-to-b from-transparent to-black absolute bottom-0 z-20"></div>
       <img
-        src="../../public/assets/images/hero5.png"
+        src="assets/images/hero5.png"
         className="!h-96 w-fit object-fill bottom-0 absolute left-1/2 -translate-x-1/2 z-10"
         alt=""
       />
