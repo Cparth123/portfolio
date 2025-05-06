@@ -28,27 +28,27 @@ const SkillsSection = () => {
       {[
         {
           title: "Programming Languages",
-          icon: "assets/images/code.png", // You can use an icon related to frontend development, like a browser or code icon
+          icon: "assets/Images/code.png", // You can use an icon related to frontend development, like a browser or code icon
           description:
             "I have a strong command of multiple frontend technologies, including JavaScript, TypeScript, and HTML/CSS. JavaScript is my go-to language for building dynamic, interactive user interfaces, while TypeScript provides type safety, improving code quality and scalability in larger projects. I also have deep expertise in HTML and CSS, ensuring pixel-perfect layouts and responsive designs across various screen sizes. These technologies, paired with frameworks like React and Next.js, allow me to build modern, high-performance web applications.",
         },
 
         {
           title: "CSS Frameworks & Design Systems",
-          icon: "assets/images/CSS3.png",
+          icon: "assets/Images/CSS3.png",
           description:
             "I have extensive experience working with popular CSS frameworks such as Bootstrap, Tailwind CSS, Material UI, and others. These frameworks enable me to create responsive, visually appealing, and user-friendly interfaces. I leverage the power of utility-first design with Tailwind CSS, as well as component libraries like MUI, to rapidly build and scale applications with consistent design patterns.",
         },
 
         {
           title: "Frontend Development",
-          icon: "assets/images/nextjs.png",
+          icon: "assets/Images/nextjs.png",
           description:
             "For frontend development, I rely on React and Next.js. React’s component-based architecture and hooks enable me to create dynamic, responsive user interfaces. Next.js enhances development with features like server-side rendering (SSR), static site generation (SSG), and API routes. Together, they allow me to deliver fast, SEO-friendly, and scalable web applications with exceptional user experiences.",
         },
         {
           title: "API Integration & Development",
-          icon: "assets/images/Appwrite.png", // You can update with an icon related to API integration
+          icon: "assets/Images/Appwrite.png", // You can update with an icon related to API integration
           description:
             "I specialize in integrating various third-party APIs into web applications, ensuring seamless data flow between services. Whether it's RESTful or GraphQL APIs, I implement secure, reliable, and scalable integrations. My expertise includes authenticating, consuming, and processing data from external APIs, and transforming that data into usable formats for front-end or backend systems. I also focus on ensuring efficient error handling, rate-limiting, and maintaining smooth performance in high-volume scenarios.",
         },

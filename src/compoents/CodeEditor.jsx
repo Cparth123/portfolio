@@ -6,32 +6,32 @@ function CodeEditor() {
       <div className="py-20 w-full flex justify-center">
         <div id="codeeditor" className="w-fit h-fit relative">
           <img
-            src="assets/images/ts.png"
+            src="assets/Images/ts.png"
             className="!w-14 !h-14 float-animation rotate-12 object-cover -top-10 absolute"
           />
           <img
-            src="assets/images/nextjs.png"
+            src="assets/Images/nextjs.png"
             className="!w-14 !h-14 float-animation z-20 -rotate-12 object-cover -top-10 right-20 absolute"
           />
           <img
-            src="assets/images/Redux.png"
+            src="assets/Images/Redux.png"
             className="!w-14 !h-14 float-animation z-20 -rotate-12 object-cover -top-10 right-1 md:right-56 absolute"
           />
 
           <img
-            src="assets/images/MongoDB.png"
+            src="assets/Images/MongoDB.png"
             className="!w-14 !h-14 float-animation rotate-12 object-cover -bottom-10 z-20 right-12 absolute"
           />
           <img
-            src="assets/images/react.png"
+            src="assets/Images/react.png"
             className="!w-14 !h-14 float-animation z-20 right-1 -md:rotate-12 object-cover -bottom-12 md:right-60  absolute"
           />
           <img
-            src="assets/images/Tailwind CSS.png"
+            src="assets/Images/Tailwind CSS.png"
             className="!w-14 !h-14 float-animation -rotate-12 object-cover -bottom-10 left-10 absolute"
           />
           <img
-            src="assets/images/nextjs.png"
+            src="assets/Images/nextjs.png"
             className="w-32 h-32 -rotate-12 object-cover top-10 left-52 absolute"
           />
 
